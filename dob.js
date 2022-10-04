@@ -1,3 +1,6 @@
+
+
+
 const no = document.getElementById("btn2");
 const yes = document.getElementById("btn1");
 
@@ -132,3 +135,13 @@ btt3.addEventListener("click", function (){
 		 
 							
 });
+
+
+
+
+
+
+
+
+
+
