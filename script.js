@@ -96,10 +96,7 @@ bbtt1.addEventListener("click", function (){
 bbtt8.addEventListener("click", function (){
 			bbtt8.style.opacity= "0";
 			btt6.style.opacity= "1";
-			hang.style.opacity= "1";			
-			
-					
-			
+			hang.style.opacity= "1";					
 });
 
 btt6.addEventListener("click", function (){
