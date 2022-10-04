@@ -1,3 +1,4 @@
+
 const no = document.getElementById("btn2");
 const yes = document.getElementById("btn1");
 
@@ -47,7 +48,7 @@ const sadsad = document.getElementById('sadsad');
 
 no.addEventListener("click", function (){
 			btt12.style.opacity= "1";
-			no.style.opacity= "0";
+			no.style.opacity= "1";
 									
 });
 
@@ -74,12 +75,12 @@ btt1.addEventListener("click", function (){
 
 btt4.addEventListener("click", function (){
 			btt2.style.opacity= "1";
-			btt4.style.opacity= "0";
+			btt4.style.opacity= "1";
 			sadboi.style.opacity= "1";					
 });
 
 btt2.addEventListener("click", function (){
-			btt2.style.opacity= "0";
+			btt2.style.opacity= "1";
 			bbtt1.style.opacity= "1";
 			crying.style.opacity= "1";				
 			yes.style.padding= "50px";
